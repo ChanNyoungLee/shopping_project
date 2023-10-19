@@ -87,7 +87,7 @@
 도출하기는 어렵다 판단되어 2020년 데이터와 통합해서 분석을
 진행했다.
 <p align="center">
-  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%801.png" width="800"/>
+  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%801.png" width="400"/>
 
 </p>
 <br>
@@ -95,7 +95,7 @@
 ▪ 2019년의 관측값을 2020년과 통합해서 분석한 결과를 시각화 한 그래프에서도 큰 차이를 보이지는 
 않았다. 매년 매출액이 증가하고 있는 것을 확인할 수 있었다.
 <p align="center">
-  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%802.png" width="800"/>
+  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%802.png" width="400"/>
 
 </p>
 <br>
@@ -104,7 +104,7 @@
 무시하고 모든 연도에 대해서 각 월 별로 합계를 구했다. 모든 월에 대해서 비슷한 매출을 보이지는 않지만 
 데이터 분포에 있어서 큰 규칙이 보이지는 않는다.
 <p align="center">
-  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%803.png" width="800"/>
+  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%803.png" width="400"/>
 
 </p>
 <br>
@@ -138,7 +138,7 @@ grouped_how로 저장한 후에 결제방법 별 판매금액의
 으로 두 번째로 높았으며, 다른 결제 방법들 사이에서는 큰
 차이를 보이지 않았다. 
 <p align="center">
-  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%804.png" width="800"/>
+  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%804.png" width="400"/>
 
 </p>
 <br>
@@ -147,7 +147,7 @@ grouped_how로 저장한 후에 결제방법 별 판매금액의
 위해서 pearson 상관계수 분석을 실시하였다. 결과는 pvalue가 0.66으로 0.05보다 크기 때문에 귀무가설을
 채택해서 결제 방법과 판매금액 사이에는 연관성이 없다고 할 수 있다.
 <p align="center">
-  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%805.png" width="800"/>
+  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%805.png" width="400"/>
 
 </p>
 <br>
@@ -160,7 +160,7 @@ grouped_how로 저장한 후에 결제방법 별 판매금액의
 번째로는 합계와 마찬가지로 정기결제가 941,815원이었다. 
 하지만 다른 결제방법들에서는 큰 차이를 관측할 수 없었다.
 <p align="center">
-  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%806.png" width="800"/>
+  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%806.png" width="400"/>
 
 </p>
 <br>
@@ -170,7 +170,7 @@ pearson 상관계수 분석을 실시하였다. 결과는 p-value가
 0.11로 0.05보다 크기 때문에 귀무가설을 채택해서 결제
 방법과 판매금액의 평균에는 연관성이 없다고 할 수 있다.
 <p align="center">
-  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%807.png" width="800"/>
+  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%807.png" width="400"/>
 
 </p>
 <br>
@@ -190,7 +190,7 @@ pearson 상관계수 분석을 실시하였다. 결과는 p-value가
 전체 판매금액에 대한 상위 3개 상품의 판매금액의 비율은 약
 21.55% 이다.
 <p align="center">
-  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%808.png" width="800"/>
+  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%808.png" width="400"/>
 
 </p>
 <br>
@@ -210,7 +210,7 @@ top3_2_sum, top3_3_sum으로 저장했다.
 2022년에는 771,804,000원으로 약 4
 배정도 매출이 증가했다.
 <p align="center">
-  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%809.png" width="800"/>
+  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%809.png" width="400"/>
 
 </p>
 <br>
@@ -227,7 +227,7 @@ top3_2_sum, top3_3_sum으로 저장했다.
 2022년에는 639,897,600원으로 매출이
 약 2.5배 상승했다.
 <p align="center">
-  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%8010.png" width="800"/>
+  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%8010.png" width="400"/>
 
 </p>
 <br>
@@ -235,7 +235,7 @@ top3_2_sum, top3_3_sum으로 저장했다.
 ▪ 마지막으로 ‘[지사전용] 스마트 HBE-학습 전용 태블릿’은
 주문연도가 2022년으로만 나왔다.
 <p align="center">
-  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%8011.png" width="800"/>
+  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%8011.png" width="400"/>
 
 </p>
 <br>
@@ -248,7 +248,7 @@ data_month로 저장했다. 월 별로 합계를 구한 뒤 월과 합계액의 
 분석을 실시했다. 결과는 p-value가 0.43으로 0.05보다 크기 때문에 귀무가설을 채택해서 주문한 달과 
 판매금액은 상관관계가 없다고 할 수 있는 것으로 나왔다. 
 <p align="center">
-  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%8012.png" width="800"/>
+  <img src="https://github.com/ChanNyoungLee/shopping_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%8012.png" width="400"/>
 
 </p>
 <br>
